@@ -57,4 +57,26 @@
 </body>
 </html>
 
+block elements take container's full width whereas inline does not take the full width
+.city{
+	display: block;
+	border: solid 1px red;
+}
+.job{
+	display: block;
+
+	line-height: 5px;
+	padding-bottom: 10px;
+}
+
+.job1{
+	display: block;
+	padding-top: 10px;
+	line-height: 5px;
+}
+.edu p{
+	padding-top: 10px;
+	display: block;
+	line-height: 5px;
+}
 
