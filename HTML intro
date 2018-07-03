@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="resume" content="content">
+	<title>Resume</title>
+	<link rel="stylesheet" href="css/style.css">
+    
+</head>
+<body>
+	<div>
+
+	  <h1>RAGHAV ANJURE</h1>
+	  <strong>Web Developer</strong>
+	  <span class="city">Banglore</span><hr>
+
+	</div>
+
+	<div>
+		<h3>SUMMERY</h3>
+		<p> List about the majore aspects of the studies and work</p><hr>
+		
+	</div>
+	
+	<h3>WORK EXPERINCE</h3>
+    <div class="job1">
+		  <p><strong>Job title</strong></p>
+		  <p><b>Company Name</b>, Location </p>
+		  <span><i>jan2013 - dec2013</i></span>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error perferendis nam illum necessitatibus animi consequuntur maxime quod ducimus, voluptatem ipsa.</p>
+	</div>
+	<div class="job">
+        <strong>Job Title</strong>
+        <p><b>Company Name</b>, Location </p>
+		  <i>jan2013 - dec2013</i>
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim vel laudantium illum incidunt deserunt animi dolores distinctio repudiandae adipisci voluptates.</p><hr>		
+	</div>
+    <div class="edu">
+    	<h3>EDUCATION</h3>
+    	<p><strong>School Name:</strong></p>
+    	<spam>2010 - 2012</spam><hr>
+
+    </div>
+        <h3> ADDITIONAL INFORMATION</h3>
+        <div>
+      	   <h4>Hobbies</h4>
+      	<ol>
+      		<li>Reading</li>
+      		<li>playing</li>
+      		<li>gaming</li>
+      	</ol>
+      	<h4></h4>
+      	
+      </div>
+
+</body>
+</html>
+
+
