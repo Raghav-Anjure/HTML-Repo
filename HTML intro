@@ -79,4 +79,10 @@ block elements take container's full width whereas inline does not take the full
 	display: block;
 	line-height: 5px;
 }
+A number of things. Firstly, there is a new protocol, HTML5. This promises to facilitate
+Responsive Design and integrate functions that once required browser plug-ins to work. Secondly,
+low-powered devices have stormed onto the scene and websites have to be optimised for smartphones and tablets.
+If you’re not optimised, you risk missing out on huge segments of the market.
+And finally, the profile of those using the web,
+
 
