@@ -18,8 +18,3 @@ which create and manage your website professionally for a reasonable fee.
 	padding-top: 10px;
 	line-height: 5px;
 }
-.edu p{
-	padding-top: 10px;
-	display: block;
-	line-height: 5px;
-}
